@@ -1,5 +1,31 @@
 /* Your code here */
+#page-title{
+    font-weight: bold;
+}
 
+.pagenum{
+    position: absolute;
+    right: 1%;
+    font-size: small;
+}
+
+p {
+    text-align: justify;
+    margin: .75em 0;
+}
+
+pre {
+    text-align: center;
+    margin: 100px 0;
+}
+
+a:link { 
+    text-decoration: none; 
+}
+
+pre, a:link {
+    color: black;
+}
 /* ===== DO NOT EDIT BELOW THIS COMMENT ===== */
 
 .noin {
